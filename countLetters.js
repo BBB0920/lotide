@@ -34,3 +34,5 @@ let object1 = {
 // countLetters("lighthouse in the house");
 //console.log(object1 === countLetters("lighthouse in the house"));
 assertEqual(countLetters("lighthouse in the house"), object1);
+
+module.exports = countLetters;
